@@ -1,8 +1,4 @@
-'''
-Created on Oct 21, 2012
 
-@author: marek
-'''
 import sys
 import csv
 import random
@@ -53,14 +49,15 @@ def writeItemsToCsv(finalList):
 def main():
 
     lst = getCsvContaint()
+    print "Loaded CSV"
     count = int(sys.argv[2])
     finalList = []
-    
     for i in range(0,count):
         finalList.append(getRandomRow(lst))
-        
+    print "Generated new CSV"
     writeItemsToCsv(finalList)
-        
+    print "Writen to out.csv"
+    
 if __name__ == '__main__':
     main()
     
