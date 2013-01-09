@@ -29,8 +29,7 @@ def generateError(element):
         element = ''.join(random.sample(element,len(element)))
     return element
         
-def getCsvContaint():
-    csvInput = sys.argv[1]
+def getCsvContaint(csvInput):
     lst = []
     with open(csvInput, 'rb') as csvFile:
         dialect = csv.Sniffer().sniff(csvFile.read(1024))
@@ -47,13 +46,20 @@ def writeItemsToCsv(finalList):
         writer.writerows(finalList)
 
 def main():
-
-    lst = getCsvContaint()
+    csvInput = sys.argv[1]
+    lst = getCsvContaint(csvInput)
+    header = lst.pop(0);
+    print header
     print "Loaded CSV"
     count = int(sys.argv[2])
+    option = (sys.argv[3])
+    print option
     finalList = []
+    hasList = list()
     for i in range(0,count):
-        finalList.append(getRandomRow(lst))
+        randomRow = getRandomRow(lst)
+        if not hasList.__contains__(str(randomRow)):
+            finalList.append(getRandomRow(lst))
     print "Generated new CSV"
     writeItemsToCsv(finalList)
     print "Writen to out.csv"
