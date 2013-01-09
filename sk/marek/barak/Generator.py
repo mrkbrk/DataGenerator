@@ -42,7 +42,7 @@ def getCsvContaint(csvInput):
 
 def writeItemsToCsv(finalList):
     with open('out.cvs', 'wb') as csvFile:
-        writer = csv.writer(csvFile)
+        writer = csv.writer(csvFile,csv.excel)
         writer.writerows(finalList)
 
 def main():
@@ -54,16 +54,54 @@ def main():
     count = int(sys.argv[2])
     option = (sys.argv[3])
     print option
-    finalList = []
-    hasList = list()
-    for i in range(0,count):
-        randomRow = getRandomRow(lst)
-        if not hasList.__contains__(str(randomRow)):
-            finalList.append(getRandomRow(lst))
-    print "Generated new CSV"
-    writeItemsToCsv(finalList)
-    print "Writen to out.csv"
-    
+    if (option == "m"):
+        finalList = []
+        hasList = list()
+        for i in range(0,count):
+            randomRow = getRandomRow(lst)
+            if not hasList.__contains__(str(randomRow)):
+                hasList.append(str(randomRow))
+                finalList.append(getRandomRow(lst))
+        print "Generated new CSV"
+        finalList.insert(0, header)
+        writeItemsToCsv(finalList)
+        print "Writen to out.csv"
+    else:
+        
+        finalList = list()
+        size = len(lst)
+        hasList = list()
+        for i in range(size):
+            indexList = list()
+            for j in range(len(header)):
+                if header[j].lower() == "id_cas":
+                    rand = random.randint(1,100)
+                    indexList.append(rand)
+                elif header[j].lower() =="id_zamestnanec":
+                    rand = random.randint(1,100)
+                    indexList.append(rand)
+                elif header[j].lower() == "id_zakaznik":
+                    rand = random.randint(1,100)
+                    indexList.append(rand)
+                elif header[j].lower() == "id_tovaru":
+                    rand = random.randint(1,100)
+                    indexList.append(rand)
+                elif header[j].lower() == "id_dodavatel":
+                    rand = random.randint(1,100)
+                    indexList.append(rand)
+                elif header[j].lower() == "id_faktura":
+                    rand = random.randint(1,100)
+                    indexList.append(rand)
+            header.reverse()
+            l = lst.pop(0)
+            l.pop(0)
+            indexList.extend(l)
+            if not hasList.__contains__(str(indexList)):
+                hasList.append(str(indexList))
+                finalList.append(indexList)
+        finalList.insert(0, header)
+        writeItemsToCsv(finalList)
+        
 if __name__ == '__main__':
     main()
     
