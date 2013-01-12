@@ -1,0 +1,9 @@
+1. Vytvorena predloha pre DIMENZIONALNU TABULKU. Obsahuje vsetky hodnoty okrem primarnych klucov, cudzie moze obsahovat lebo to sa nachadza len v zamestnanci a to nadriadeny ale vzhladom nato ze nadriadenych nie je tak vela a opakuju tak tie kludne sa mozu uviest. Dalej spustit Generator.py podla obrazku GenerovanieDat.jpg na windowse sa python mozno spusta trosku inaksie, tak si pozrite nieco na internete. Nie je to zlozite. Dobre tymto praca pre dimenzionalne tabulky konci.
+
+Poznamka: CSV subor NESMIE obsahovat policka pre ID a MUSI OSAHOVAT HLAVICKY s ROVNAKYM NAZVOM AKO ATRIBUTY V DATABAZE!!!!!!!!!!
+
+2. Tymto istym sposobom mozete vygenerovat i data pre FAKTOVE TABULKY.
+
+Poznamka: CSV Subor musi obsahovat HLAVICKY ktore maju ROVNAKY NAZOV AKO V DATABAZE SPOLU IDCKAMI ktore ZOSTAVAJU NEVYPLNENE!!!!!!
+
+3. Generovanie ID pre Faktove tabulky prebieha skoro tak isto ako generovanie dat. Vid obrazok GenerovanieIdFakt.pgn.

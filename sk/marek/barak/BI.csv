@@ -1,113 +1,500 @@
-ID_TOVARU,Kategoria,Nazov_tovaru,,Jazykova_mutacia,Rozsah,Datum_vydania,Autor,Vydavatel,Popis,ISBN,Cena,Vek_dostupnost
-,pre deti,3:16,,SK,700,2/1/2010,Satish Gujral,Ikar,ligula consectetuer rhoncus. Nullam,87987,6.90 €,vsetky vekove kateg
-,pre deti,"5 DNÍ, KTORÉ VÁS ZMENIA",,SK,725,9/20/2011,S.S. Kohli,Ikar,quis diam. Pellentesque habitant,9273793827,8.30 €,vsetky vekove kateg
-,pre deti,"5 DNÍ, KTORÉ ZMENIA VAŠE DIEŤA",,SK,700,1/3/2012,I.K. Gujral,Ikar,hymenaeos. Mauris ut quam,9890980090,8.90 €,vsetky vekove kateg
-,pre deti,90 MINÚT V NEBI,,SK,835,1/4/2012,Tiziano Terzani,Ikar,sit amet massa. Quisque,908709090,6.90 €,vsetky vekove kateg
-,pre deti,ABC BIBLE,,SK,675,1/4/2012,Judith A Howard and Jocelyn A.Hollander,Ikar,"Aliquam tincidunt, nunc ac",98203909,17.26 €,vsetky vekove kateg
-,pre deti,ABRAHÁM A IZÁK,,SK,725,1/4/2012,Georgy Vladimov,Ikar,Sed dictum. Proin eget,9898879870,9.90 €,vsetky vekove kateg
-,pre deti,AJ JA SOM KVAPKA,,SK,239.8,1/5/2012,Namita Gokhale,Ikar,Curabitur massa. Vestibulum accumsan,1223343243,9.50 €,vsetky vekove kateg
-,pre deti,"AK CHCEŠ CHODIŤ PO VODE, MUSÍŠ VYSTÚPIŤ Z LODE",,SK,0.1,1/6/2012,Vladimir Zhirinovsky,Ikar,"facilisis vitae, orci. Phasellus",5353423343,7.70 €,vsetky vekove kateg
-,pre deti,AKO CHYTAŤ V ŽITE,,SK,625,1/6/2012,P.N. Chopra,Ikar,ante. Vivamus non lorem,423432332,6.00 €,vsetky vekove kateg
-,pre deti,AKO MILOVAŤ SVOJE DIEŤA,,SK,450,1/7/2012,Vasant Navrekar,Ikar,tristique pharetra. Quisque ac,24332334342,4.95 €,vsetky vekove kateg
-,pre deti,AKO VYCHOVÁVAŤ DIEVČATÁ,,SK,650,1/8/2012,Partha Chatterjee,Ikar,neque venenatis lacus. Etiam,3243232334,9.50 €,vsetky vekove kateg
-,pre deti,ANI TO NEJLEPŠÍ NESTAČÍ? PERFEKCIONISMUS A JEHO DŮSLEDKY,,SK,700,1/8/2012,Abdulla Kamal,Ikar,"auctor, nunc nulla vulputate",42342433243,9.95 €,vsetky vekove kateg
-,pre deti,ANIMOVANÉ BIBLICKÉ PRÍBEHY 1. SADA (4XDVD),,CZ,400,1/9/2012,Laxmi Sehgal,Ikar,"consectetuer, cursus et, magna.",46555465654,39.60 €,vsetky vekove kateg
-,pre deti,ANIMOVANÉ BIBLICKÉ PRÍBEHY 2. SADA (4XDVD),,CZ,675,6/29/2011,Arun Shourie,Ikar,Cras interdum. Nunc sollicitudin,6576876876,39.60 €,vsetky vekove kateg
-,pre deti,ANIMOVANÉ BIBLICKÉ PRÍBEHY 3. SADA (4XDVD),,CZ,625,6/30/2011,Lucinda Vardey,Ikar,"in, dolor. Fusce feugiat.",56746546554,39.60 €,vsetky vekove kateg
-,roman,ANIMOVANÉ BIBLICKÉ PRÍBEHY 4. SADA (4XDVD),,CZ,124.35,6/30/2011,Vikram Seth,Ikar,non dui nec urna,6498948948954,39.60 €,vsetky vekove kateg
-,roman,ANIMOVANÉ BIBLICKÉ PRÍBEHY 5. SADA (4XDVD),,CZ,40,7/1/2011,Octavio Paz,Ikar,lobortis tellus justo sit,989898982,39.60 €,vsetky vekove kateg
-,roman,ANIMOVANÉ BIBLICKÉ PRÍBEHY 6. SADA (4XDVD),,CZ,50,7/2/2011,Peter Donelli,Ikar,Sed nec metus facilisis,238,39.60 €,vsetky vekove kateg
-,roman,ANIMOVANÉ BIBLICKÉ PRÍBEHY 7. SADA (4XDVD),,CZ,910,7/3/2011,Stanley Wolfer,Ikar,felis. Nulla tempor augue,650,39.60 €,vsetky vekove kateg
-,roman,ANIMOVANÉ BIBLICKÉ PRÍBEHY 8. SADA (4XDVD),,CZ,80,7/5/2011,Walter Scott,Ikar,"mattis ornare, lectus ante",1158,39.60 €,vsetky vekove kateg
-,roman,ANIMOVANÉ BIBLICKÉ PRÍBEHY 9. SADA (4XDVD),,CZ,330,7/6/2011,William Faulkner,Ikar,vel pede blandit congue.,1210,39.60 €,vsetky vekove kateg
-,roman,AUDIO NOVÝ ZÁKON V MP3,,CZ,35,7/7/2011,John Dryden,Ikar,"congue, elit sed consequat",1554,1.90 €,vsetky vekove kateg
-,roman,AUTOBUSY PLNÉ VODY,,CZ,50,7/9/2011,D.R. Mankekar,Ikar,quam dignissim pharetra. Nam,1813,7.00 €,vsetky vekove kateg
-,roman,BARÁNOK BOŽÍ,,CZ,500,7/10/2011,J.N. Dixit,Ikar,"dui. Fusce aliquam, enim",2017,9.90 €,vsetky vekove kateg
-,roman,BEZ STRACHU - MAX LUCADO,,CZ,500,7/12/2011,George Eliot,Ikar,turpis. In condimentum. Donec,2180,6.90 €,vsetky vekove kateg
-,roman,BIBLE - ČESKÝ STUDIJNÍ PŘEKLAD,,CZ,300,7/14/2011,Mohan Rakesh,Ikar,Donec sollicitudin adipiscing ligula.,2366,29.90 €,vsetky vekove kateg
-,roman,"BIBLE21 ""BASIC""",,CZ,"1,000",12/2/2011,P.B. Shelley,Ikar,"enim. Sed nulla ante,",2552,14.70 €,vsetky vekove kateg
-,roman,"BIBLE21 ""ORANGE""",,CZ,10,12/3/2011,Sue Townsend,Ikar,"varius et, euismod et,",2745,20.90 €,vsetky vekove kateg
-,roman,"BIBLE21 ""TRICOT""",,CZ,795,12/4/2011,Mark Twain,Ikar,felis. Nulla tempor augue,2898,20.90 €,vsetky vekove kateg
-,roman,"BIBLE21 ""XL""",,CZ,700,12/5/2011,Daniel Defoe,Ikar,libero. Morbi accumsan laoreet,3081,20.90 €,vsetky vekove kateg
-,roman,BIBLIA - EVANJELICKÝ PREDKLAD,,CZ,725,12/6/2011,P.G. Wodehouse,Ikar,fermentum arcu. Vestibulum ante,3267,13.30 €,vsetky vekove kateg
-,roman,BIBLIA - SLOVENSKÝ EKUMENICKÝ PREKLAD - BEZ DEUTEROKANONICKÝCH KNÍH,,CZ,700,12/7/2011,Sir Arthur Conan Doyle,Ikar,molestie arcu. Sed eu,3448,24.86 €,vsetky vekove kateg
-,naucna,BIBLIA - SLOVENSKÝ EKUMENICKÝ PREKLAD - S DEUTEROKANONICKÝMI KNIHAMI,,CZ,835,12/7/2011,Mark Twain,Ikar,"euismod ac, fermentum vel,",3619,26.52 €,vsetky vekove kateg
-,naucna,BIBLIA - STARÝ ZÁKON - CD 1,,CZ,675,12/8/2011,lrving Stone,Ikar,"tempor, est ac mattis",3775,2.95 €,vsetky vekove kateg
-,naucna,BIBLIA - STARÝ ZÁKON - CD 2,,CZ,725,12/9/2011,Allen Drury,Ikar,a feugiat tellus lorem,3908,2.95 €,vsetky vekove kateg
-,naucna,BIBLIA - SVÄTÉ PÍSMO,,CZ,239.8,11/1/2009,Virgil,Ikar,"Integer vulputate, risus a",4073,33.00 €,vsetky vekove kateg
-,naucna,BIBLIA - SVÄTÉ PÍSMO - NA CESTY,,CZ,0.1,11/2/2009,C.P.Snow,Ikar,"tellus faucibus leo, in",4344,17.00 €,vsetky vekove kateg
-,naucna,BIBLIA - VRECKOVÉ VYDANIE OD SSV,,CZ,625,11/3/2009,J.K.Galbraith,Ikar,Suspendisse ac metus vitae,4583,14.00 €,vsetky vekove kateg
-,naucna,BIBLIA EKUMENICKÁ BEZ DEUTEROKANONICKÝCH KNÍH V KOŽI,,CZ,450,11/4/2009,R.H. Magnus & Eden Naby,Ikar,"porttitor vulputate, posuere vulputate,",5392859328,51.45 €,vsetky vekove kateg
-,naucna,"BIBLIA EKUMENICKÁ BEZ DT - PRE DETI A PATHFINDEROV, VRECKOVÁ",,CZ,650,11/4/2009,Chester Bowles,Ikar,orci luctus et ultrices,5074,12.90 €,vsetky vekove kateg
-,naucna,"BIBLIA EKUMENICKÁ BEZ DT - PRE MLADÝCH, VRECKOVÁ",,CZ,700,11/5/2009,Susan Issacs,Ikar,Integer tincidunt aliquam arcu.,9273793827,12.90 €,vsetky vekove kateg
-,naucna,"BIBLIA EKUMENICKÁ BEZ DT - VRECKOVÁ, MÄKKÝ OBAL",,CZ,400,11/6/2009,S.M. Ali,Ikar,enim. Etiam imperdiet dictum,9890980090,12.90 €,vsetky vekove kateg
-,roman,BIBLIA EKUMENICKÁ S DEUTEROKANONICKÝMI KNIHAMI V KOŽI,,CZ,675,11/10/2009,Boris Yeltsin,Ikar,Ut sagittis lobortis mauris.,908709090,53.11 €,vsetky vekove kateg
-,roman,"BIBLIA EKUMENICKÁ S DT - VRECKOVÁ, MÄKKÝ OBAL",,CZ,625,11/11/2009,Jean Paul Sartre,Ikar,"fringilla ornare placerat, orci",98203909,12.90 €,od 12r.
-,roman,BIBLICKÉ PRÍBEHY 1 (CD-ROM),,CZ,124.35,11/12/2009,Acharya Tulsi,Ikar,Sed eu nibh vulputate,9898879870,11.60 €,od 12r.
-,roman,BIBLICKÉ PRÍBEHY 2 (CD-ROM),,CZ,40,11/12/2009,Kazi Nazrul Islam,Ikar,"est, vitae sodales nisi",1223343243,11.60 €,od 12r.
-,roman,BIBLICKÉ PRÍBEHY 3 (CD-ROM),,CZ,50,7/23/2011,Irving Stone,Ikar,"adipiscing, enim mi tempor",5353423343,11.60 €,od 12r.
-,roman,BIBLICKÉ PRÍBEHY 4 (CD-ROM),,CZ,910,7/24/2011,Abul Fazal,Ikar,vitae nibh. Donec est,423432332,11.60 €,od 12r.
-,roman,BIBLICKÉ PRÍBEHY 5 (CD-ROM),,CZ,80,7/27/2011,Arthur Hailey,Ikar,ultrices posuere cubilia Curae;,24332334342,11.60 €,od 12r.
-,detektivka,BIBLICKÉ PRÍBEHY 6 (CD-ROM),,CZ,330,7/27/2011,Jai Shankar Prasad,Ikar,ut nisi a odio,3243232334,11.60 €,od 12r.
-,detektivka,BLÁZNIVÁ LÁSKA,,CZ,35,7/28/2011,Abul Fazal,Ikar,morbi tristique senectus et,42342433243,6.90 €,od 12r.
-,detektivka,"BOH JE BLIŽŠIE, NEŽ SI MYSLÍŠ",,CZ,50,7/30/2011,James Michener,Ikar,Proin mi. Aliquam gravida,46555465654,8.50 €,od 12r.
-,detektivka,BOH NÁS VEDIE - MÁRIO TOMÁŠIK,,CZ,500,8/1/2011,Ben Johnson,Fragment,ipsum ac mi eleifend,6576876876,9.90 €,od 12r.
-,detektivka,BOH SA PRIBLÍŽIL,,CZ,500,8/2/2011,Lawrence Durrel,Fragment,"placerat eget, venenatis a,",56746546554,6.90 €,od 12r.
-,detektivka,BOŽIA DOKONALOSŤ,,CZ,300,8/4/2011,John Gunther,Fragment,diam vel arcu. Curabitur,6498948948954,2.00 €,od 12r.
-,detektivka,BOŽIA RODINA - PRÍBEHY Z KRÁĽOVSKEJ ULICE,,CZ,"1,000",8/5/2011,Lewis Carroll,Fragment,"eleifend non, dapibus rutrum,",989898982,1.32 €,od 12r.
-,detektivka,BREVIÁŘ HŘÍCHU,,CZ,10,8/7/2011,Peter Brimelow,Fragment,Donec egestas. Aliquam nec,238,2.50 €,od 12r.
-,detektivka,BŮH NA LAVICI OBŽALOVANÝCH,,CZ,795,8/9/2011,John Dryden,Fragment,"nec, imperdiet nec, leo.",650,7.70 €,od 12r.
-,detektivka,BÝT DOBROU MÁMOU,,CZ,700,8/9/2011,William Shakespeare,Fragment,enim diam vel arcu.,1158,10.30 €,od 12r.
-,detektivka,CESTA KE ŠTĚSTÍ - TAJEMSTVÍ VAŠÍ DUŠEVNÍ POHODY,,CZ,725,8/11/2011,Erich Maria Remarque,Fragment,"pharetra nibh. Aliquam ornare,",1210,12.28 €,od 12r.
-,detektivka,CESTA UZDRAVENÍ,,CZ,700,8/14/2011,Robert Penn Warren,Fragment,Aliquam erat volutpat. Nulla,1554,4.00 €,od 12r.
-,detektivka,CESTOU USMÍŘENÍ - PRŮVODCE ŘEŠENÍ OSOBNÍCH KONFLIKTŮ,,CZ,835,8/15/2011,Carl Bernstein and Bob Woodward,Fragment,sed pede nec ante,1813,12.12 €,od 12r.
-,krimi,CIRKEV BEZ MÚROV? - CIRKEVNÁ OBEC A OTVORENÁ SPOLOČNOSŤ,,CZ,675,8/16/2011,James Herroit,Fragment,eu sem. Pellentesque ut,2017,1.83 €,od 12r.
-,krimi,CO DOKÁŽE ÚCTA ...ANEB KAŽDÝ SI ZASLOUŽÍ ÚCTU,,CZ,725,8/17/2011,Pearl S.Buck,Fragment,"elit, a feugiat tellus",2180,8.50 €,od 12r.
-,krimi,CUDZIE TELÁ V NÁS,,CZ,239.8,8/13/2011,Aldous Huxley,Fragment,vitae aliquam eros turpis,2366,2.00 €,od 12r.
-,krimi,ČAS PRE RODINU,,CZ,0.1,8/18/2011,Anita Brookner,Fragment,ridiculus mus. Aenean eget,2552,2.00 €,od 12r.
-,krimi,"ČINTET, ALEBO MORE NA KONCI SVETA",,CZ,625,8/20/2011,Amar Singh,Fragment,neque. Morbi quis urna.,2745,11.45 €,od 12r.
-,krimi,DANIEL,,CZ,450,8/21/2011,J.K. Galbraith,Fragment,nec tempus mauris erat,2898,9.90 €,od 12r.
-,krimi,DÁVID A GOLIÁŠ,,CZ,650,8/23/2011,Chester Bowles,Fragment,est. Mauris eu turpis.,3081,9.90 €,od 12r.
-,krimi,"DEDO, VYZDRAVIEŠ?",,CZ,700,8/25/2011,Henry Fielding,Fragment,"parturient montes, nascetur ridiculus",3267,1.00 €,od 12r.
-,krimi,DETI A HRANICE,,CZ,400,4/15/2011,J.K. Galbraith,Fragment,molestie tellus. Aenean egestas,3448,11.25 €,od 12r.
-,krimi,DĚTI A PĚT JAZYKŮ LÁSKY,,CZ,675,9/7/2009,Gunnar Myrdal,Fragment,"tempus scelerisque, lorem ipsum",3619,8.46 €,od 12r.
-,krimi,DĚTI A ROZVOD,,CZ,625,5/22/2010,Theodore Dreiser,Fragment,egestas rhoncus. Proin nisl,3775,12.61 €,od 12r.
-,krimi,DEUS SEMPER MAIOR,,CZ,124.35,5/3/2006,Robert Louis Stevenson,Fragment,"pharetra sed, hendrerit a,",3908,8.80 €,od 12r.
-,krimi,"DIESEL II. - BRUTÁLNÍ SÍLA, PODSVĚTÍ, KRIMINÁL, KŘEST",,CZ,40,9/5/2006,Jawaharlal Nehru,Fragment,"nibh. Donec est mauris,",4073,6.50 €,od 12r.
-,roman,DIVOKÝ V SRDCI! - ODHAĽOVANIE TAJOMSTVA DUŠE MUŽA!,,CZ,50,8/24/2009,David Selbourne,Fragment,fermentum convallis ligula. Donec,4344,4.50 €,od 12r.
-,roman,DO PÁTKU BUDE VÁŠ MANŽEL JINÝ,,SK,910,12/28/2009,Dr.S. Radhakrishnan,Fragment,"massa. Mauris vestibulum, neque",4583,9.35 €,od 12r.
-,roman,DOBRÁ ZPRÁVA PRO ŠPATNÉ LIDI,,SK,80,7/11/2010,Bankim Chandra Chatterjee,Fragment,Etiam vestibulum massa rutrum,5392859328,6.90 €,od 12r.
-,roman,DOBRÉ VZŤAHY,,DE,330,9/5/2006,J.N. Dixit,Fragment,ipsum nunc id enim.,5074,9.90 €,od 12r.
-,roman,DOBRODRUŽSTVÍ ŽIVOTA,,DE,35,9/4/2006,Norman Mailer,Fragment,metus. Aenean sed pede,9273793827,3.50 €,od 12r.
-,roman,"DOVIDENIA, TETA ANKA",,DE,50,4/17/2007,Samuel Taylor Coleridge,Fragment,arcu. Vivamus sit amet,9890980090,1.00 €,od 12r.
-,roman,DÔVERNÍ SPOJENCI,,DE,500,4/23/2007,Mikhali Sholokhov,Fragment,ut mi. Duis risus,908709090,6.00 €,od 12r.
-,roman,DRACI S DOBRÝMI ÚMYSLY - JAK SLOUŽIT PROBLÉMOVÝM LIDEM V CÍRKVI,,DE,500,5/8/2007,Lewis Carroll,Fragment,"malesuada vel, venenatis vel,",98203909,7.14 €,od 12r.
-,scifi,DRUHÁ STRANA SMRTI,,DE,300,5/8/2007,George Bernard Shaw,Fragment,ornare tortor at risus.,9898879870,10.62 €,od 12r.
-,scifi,DVE VÍNA,,DE,"1,000",7/8/2011,Willem Doevenduin,Fragment,"nunc nulla vulputate dui,",1223343243,9.70 €,od 12r.
-,scifi,DÝKA A KRÍŽ,,DE,10,7/23/2011,Lakshmidhar Mishra,Fragment,et netus et malesuada,5353423343,4.95 €,od 12r.
-,scifi,EFEŽANOM,,DE,795,8/1/2011,George Orwell,Fragment,"dui quis accumsan convallis,",423432332,1.00 €,od 12r.
-,scifi,ELIÁŠ,,DE,700,8/6/2011,Count Leo Tolstoy,Fragment,senectus et netus et,24332334342,9.90 €,od 12r.
-,scifi,ELIZEUS,,DE,725,9/24/2009,Derek Walcott,Fragment,"scelerisque sed, sapien. Nunc",3243232334,9.90 €,od 12r.
-,scifi,EMOCIONÁLNĚ ZDRAVÁ CÍRKEV,,DE,700,10/17/2009,Mohammad Reza Pahlavi,Fragment,"at, libero. Morbi accumsan",42342433243,11.45 €,od 12r.
-,scifi,ESTER,,DE,835,8/21/2011,Aldous Huxley,Fragment,"nibh. Donec est mauris,",46555465654,9.90 €,od 12r.
-,scifi,EVANGELIUM ZLOMENÝCH,,DE,675,9/4/2011,William Shakespeare,Fragment,Quisque ornare tortor at,6576876876,9.79 €,od 12r.
-,scifi,FARBA VODY,,DE,725,9/11/2011,Aldous Huxley,Fragment,nisi dictum augue malesuada,56746546554,2.50 €,od 12r.
-,scifi,HARMONIE V MANŽELSTVÍ,,DE,239.8,9/18/2011,George Bernad Shaw,Fragment,"euismod ac, fermentum vel,",6498948948954,9.95 €,od 12r.
-,scifi,HISTÓRIA BIBLIE,,DE,0.1,9/24/2011,Sir Richard Burton,Fragment,"lacinia. Sed congue, elit",989898982,39.83 €,od 12r.
-,scifi,HOLÁ PRAVDA O SEXE,,DE,625,10/2/2009,V.S. Naipaul,Fragment,ac orci. Ut semper,238,2.00 €,od 12r.
-,scifi,HOVORY,,EN,450,10/9/2009,Vikram Seth,Fragment,sit amet nulla. Donec,650,8.00 €,od 12r.
-,scifi,HRANICE A DOSPÍVAJÍCÍ,,EN,650,7/24/2011,George Bernard Shaw,Fragment,"purus. Duis elementum, dui",1158,11.95 €,od 12r.
-,scifi,HRAVO S BIBLIOU,,EN,700,7/31/2011,Jules verne,Fragment,"convallis, ante lectus convallis",1210,9.89 €,od 12r.
-,naucna,CHATRČ - V KTOREJ SA TRAGÉDIA KONFRONTUJE S VEČNOSŤOU,,EN,400,8/7/2011,Elia Kazan,Fragment,"dolor sit amet, consectetuer",1554,11.50 €,od 12r.
-,naucna,"CHCETE-LI KRÁČET PO VODÁCH, MUSÍTE VYSTOUPIT Z LODI",,EN,675,4/18/2011,Arthur Koestler,Fragment,"leo. Vivamus nibh dolor,",1813,10.90 €,od 12r.
-,naucna,CHLIEB NÁŠ KAŽDODENNÝ  - BIBLICKÉ ÚVAHY NA KAŽDÝ DEŇ - 2011,,EN,625,4/18/2011,Arthur Koestler,Fragment,"scelerisque, lorem ipsum sodales",2017,4.30 €,od 12r.
-,naucna,CHLIEB NÁŠ KAŽDODENNÝ  - BIBLICKÉ ÚVAHY NA KAŽDÝ DEŇ - 2012,,EN,124.35,3/11/2011,Joseph Conrad,Fragment,"sodales at, velit. Pellentesque",2180,4.50 €,od 12r.
-,naucna,CHLIEB Z NEBA,,EN,40,7/12/2011,Sinclair Lewis,Fragment,nunc id enim. Curabitur,2366,9.90 €,od 12r.
-,naucna,CHUCK NORRIS - JAKÝ JE DOOPRAVDY. FÁMY A FAKTA,,EN,50,7/12/2011,Kautilya,Fragment,non justo. Proin non,2552,9.05 €,od 12r.
-,naucna,IKONY EVOLUCE,,EN,910,3/2/2011,William Faulkner,Fragment,eu eros. Nam consequat,2745,16.43 €,od 12r.
-,naucna,ILUSTROVANÁ PRÍRUČKA K BIBLII,,EN,80,3/2/2011,William Shakespeare,Fragment,Quisque ac libero nec,2898,48.80 €,od 12r.
-,naucna,IMAGINE,,EN,330,3/29/2011,Sir John Hunt,Fragment,"id, libero. Donec consectetuer",3081,6.95 €,od 12r.
-,naucna,JAK BEZE SLOV ZLEPŠIT SVÉ MANŽELSTVÍ,,EN,35,3/29/2011,Panini,Fragment,dolor. Quisque tincidunt pede,3267,9.95 €,od 12r.
-,naucna,JAK PŘEKONAT VYHOŘENÍ,,EN,50,9/27/2011,K.M. Panikkar,Fragment,"erat. Sed nunc est,",3448,6.90 €,od 12r.
-,naucna,JAK SE VYPOŘÁDAT SE STUDEM A VINOU?,,EN,500,6/29/2011,Gunnar Myrdal,Fragment,"suscipit, est ac facilisis",3619,6.47 €,od 12r.
-,naucna,JAK VYCHOVAT DĚTI A NEPŘIJÍT O ROZUM,,EN,500,8/24/2011,E.M. Forster,Enigma,ultrices posuere cubilia Curae;,3775,9.55 €,od 12r.
+id_faktura,id_zamestnanec,id_tovar,id_zakaznik,id_cas,id_pobocka,suma,naklady,vybavenie,poznamka,prevzatie,platba,stav_objednavky
+,,,,,,15.4764909763,13.9288418787,1,Donec porttitor tellus non magna. Nam,osobny_odber,zaplatena,Odoslana
+,,,,,,6.8611393683,6.1750254314,0,"eget, volutpat ornare,",osobny_odber,nezaplatena,Pripravuje sa
+,,,,,,34.5623069908,31.1060762918,0,"varius et, euismod et, commodo",kurier,nezaplatena,Vybavena
+,,,,,,92.5819388591,83.3237449732,1,"ipsum sodales purus, in molestie tortor",kurier,zaplatena,Odoslana
+,,,,,,92.4882436637,83.2394192973,0,"justo faucibus lectus,",osobny_odber,zaplatena,Vybavena
+,,,,,,14.6216243505,13.1594619155,1,Cras eu tellus,dobierka,zaplatena,Prijata
+,,,,,,67.6469173748,60.8822256373,0,mollis. Duis sit amet,osobny_odber,nezaplatena,Zrusena
+,,,,,,10.8576352242,9.7718717018,1,"aliquet, sem ut cursus luctus,",dobierka,nezaplatena,Pripravuje sa
+,,,,,,32.7158640604,29.4442776544,0,"dictum eleifend, nunc risus varius orci,",dobierka,zaplatena,Vybavena
+,,,,,,69.1604591906,62.2444132715,1,"quis accumsan convallis,",kurier,zaplatena,Zrusena
+,,,,,,99.8457916081,89.8612124473,0,"varius et, euismod",osobny_odber,zaplatena,Odoslana
+,,,,,,52.4412117898,47.1970906109,1,"sed, sapien. Nunc pulvinar arcu et",dobierka,zaplatena,Prijata
+,,,,,,42.4902155995,38.2411940396,0,Maecenas iaculis aliquet diam. Sed,osobny_odber,zaplatena,Pripravuje sa
+,,,,,,93.9522273373,84.5570046036,1,nibh sit amet,dobierka,zaplatena,Zrusena
+,,,,,,67.701235041,60.9311115369,0,nulla. Integer urna. Vivamus molestie dapibus,osobny_odber,zaplatena,Zrusena
+,,,,,,43.2759106159,38.9483195543,1,"mauris, rhoncus id, mollis nec, cursus",osobny_odber,nezaplatena,Pripravuje sa
+,,,,,,31.3245557249,28.1921001524,0,"ante bibendum ullamcorper. Duis cursus,",osobny_odber,nezaplatena,Odoslana
+,,,,,,35.1465596817,31.6319037136,1,sapien. Aenean massa. Integer vitae nibh.,osobny_odber,nezaplatena,Prijata
+,,,,,,0.6731418893,0.6058277003,1,mus. Aenean eget magna.,kurier,zaplatena,Prijata
+,,,,,,6.771364715,6.0942282435,0,"et, rutrum non, hendrerit id,",osobny_odber,zaplatena,Zrusena
+,,,,,,4.6373409219,4.1736068297,0,eget ipsum. Suspendisse sagittis. Nullam,dobierka,nezaplatena,Zrusena
+,,,,,,39.0212150291,35.1190935262,1,"rhoncus. Nullam velit dui,",kurier,zaplatena,Pripravuje sa
+,,,,,,91.2428928539,82.1186035685,0,"eleifend, nunc risus varius orci,",kurier,zaplatena,Pripravuje sa
+,,,,,,72.7182826959,65.4464544263,1,"non, luctus sit",kurier,nezaplatena,Pripravuje sa
+,,,,,,93.9564584754,84.5608126279,0,Praesent eu dui. Cum sociis natoque,kurier,zaplatena,Zrusena
+,,,,,,60.2799834218,54.2519850796,1,felis eget varius,osobny_odber,zaplatena,Odoslana
+,,,,,,58.8732247241,52.9859022517,0,non arcu. Vivamus sit amet risus.,kurier,zaplatena,Vybavena
+,,,,,,30.5634473916,27.5071026525,0,"vulputate dui, nec tempus mauris",dobierka,nezaplatena,Odoslana
+,,,,,,26.4817972202,23.8336174982,1,sem. Nulla interdum. Curabitur,osobny_odber,nezaplatena,Prijata
+,,,,,,13.1963810883,11.8767429795,0,"lectus quis massa. Mauris vestibulum, neque",dobierka,nezaplatena,Zrusena
+,,,,,,30.7748164982,27.6973348483,1,sit amet lorem semper auctor. Mauris,dobierka,zaplatena,Pripravuje sa
+,,,,,,41.9582881965,37.7624593768,0,cubilia Curae; Phasellus ornare.,dobierka,zaplatena,Zrusena
+,,,,,,20.0575204566,18.051768411,1,"dolor dolor, tempus non, lacinia at,",osobny_odber,nezaplatena,Zrusena
+,,,,,,65.337123489,58.8034111401,0,dignissim tempor arcu. Vestibulum ut,kurier,nezaplatena,Prijata
+,,,,,,34.5402270555,31.08620435,1,"lacus vestibulum lorem, sit amet ultricies",dobierka,nezaplatena,Pripravuje sa
+,,,,,,12.5457641669,11.2911877502,0,"quis, pede. Suspendisse dui. Fusce",osobny_odber,nezaplatena,Prijata
+,,,,,,79.9587478396,71.9628730556,1,Cum sociis natoque penatibus et magnis,kurier,zaplatena,Zrusena
+,,,,,,2.1871444304,1.9684299873,0,"cursus a, enim. Suspendisse aliquet, sem",osobny_odber,zaplatena,Vybavena
+,,,,,,23.4033993911,21.063059452,1,"a, auctor non, feugiat nec,",dobierka,zaplatena,Vybavena
+,,,,,,12.6746119,11.40715071,0,"velit in aliquet lobortis,",kurier,nezaplatena,Pripravuje sa
+,,,,,,71.347603621,64.2128432589,1,condimentum. Donec at arcu. Vestibulum ante,kurier,zaplatena,Prijata
+,,,,,,23.2491909992,20.9242718993,0,netus et malesuada fames ac turpis,osobny_odber,zaplatena,Zrusena
+,,,,,,65.1158237364,58.6042413628,1,pretium neque. Morbi quis,osobny_odber,zaplatena,Vybavena
+,,,,,,13.8378192671,12.4540373404,1,"enim, condimentum eget, volutpat ornare, facilisis",dobierka,zaplatena,Vybavena
+,,,,,,17.2014183365,15.4812765028,0,enim. Etiam gravida,kurier,zaplatena,Prijata
+,,,,,,32.8170587774,29.5353528997,0,Aenean euismod mauris eu elit.,kurier,nezaplatena,Pripravuje sa
+,,,,,,57.113729883,51.4023568947,1,"auctor quis, tristique",dobierka,nezaplatena,Pripravuje sa
+,,,,,,48.5259741079,43.6733766971,0,Praesent eu nulla at sem molestie,osobny_odber,nezaplatena,Odoslana
+,,,,,,67.9636184592,61.1672566133,1,et libero. Proin mi. Aliquam gravida,dobierka,zaplatena,Zrusena
+,,,,,,57.7868718188,52.0081846369,0,sapien imperdiet ornare. In faucibus.,osobny_odber,zaplatena,Odoslana
+,,,,,,55.2973388229,49.7676049406,1,Cum sociis natoque penatibus et magnis,dobierka,zaplatena,Prijata
+,,,,,,72.6009593811,65.340863443,0,Proin mi. Aliquam gravida,osobny_odber,zaplatena,Odoslana
+,,,,,,96.8080868479,87.1272781631,0,"congue, elit sed consequat auctor, nunc",dobierka,zaplatena,Odoslana
+,,,,,,46.5402316768,41.8862085091,1,vestibulum massa rutrum magna. Cras convallis,osobny_odber,zaplatena,Vybavena
+,,,,,,45.3192420769,40.7873178693,0,amet ante. Vivamus non lorem vitae,kurier,nezaplatena,Vybavena
+,,,,,,90.7645453233,81.688090791,1,ultrices. Vivamus rhoncus. Donec,kurier,nezaplatena,Vybavena
+,,,,,,6.8202150986,6.1381935887,0,ligula. Donec luctus aliquet odio.,kurier,nezaplatena,Zrusena
+,,,,,,4.1924668476,3.7732201628,1,mauris blandit mattis. Cras eget nisi,kurier,nezaplatena,Vybavena
+,,,,,,21.3279927149,19.1951934434,0,egestas rhoncus. Proin nisl,osobny_odber,nezaplatena,Vybavena
+,,,,,,33.3020123187,29.9718110869,1,est. Mauris eu turpis.,osobny_odber,nezaplatena,Pripravuje sa
+,,,,,,17.3888479359,15.6499631424,0,"sem, consequat nec, mollis vitae, posuere",dobierka,nezaplatena,Pripravuje sa
+,,,,,,52.1028092597,46.8925283337,1,id enim. Curabitur massa.,dobierka,nezaplatena,Odoslana
+,,,,,,75.2603005152,67.7342704637,0,vestibulum. Mauris magna. Duis dignissim,dobierka,zaplatena,Pripravuje sa
+,,,,,,37.4463683926,33.7017315533,1,Nulla semper tellus id nunc interdum,dobierka,zaplatena,Pripravuje sa
+,,,,,,17.4399327487,15.6959394738,0,lacus. Cras interdum. Nunc sollicitudin commodo,osobny_odber,zaplatena,Zrusena
+,,,,,,9.8005275708,8.8204748137,1,"pharetra, felis eget",dobierka,nezaplatena,Zrusena
+,,,,,,49.9921325594,44.9929193035,0,"enim. Suspendisse aliquet,",dobierka,zaplatena,Zrusena
+,,,,,,97.3986806348,87.6588125713,1,Curae; Phasellus ornare.,kurier,zaplatena,Zrusena
+,,,,,,11.9876720477,10.7889048429,1,arcu. Vestibulum ante ipsum primis in,dobierka,zaplatena,Pripravuje sa
+,,,,,,73.3955319505,66.0559787555,0,"mi lorem, vehicula et, rutrum eu,",osobny_odber,nezaplatena,Odoslana
+,,,,,,10.0732925348,9.0659632813,0,nec luctus felis purus,osobny_odber,zaplatena,Odoslana
+,,,,,,83.3352756687,75.0017481018,1,tincidunt adipiscing. Mauris molestie pharetra,osobny_odber,zaplatena,Prijata
+,,,,,,96.6447229963,86.9802506967,0,"risus odio, auctor",osobny_odber,nezaplatena,Vybavena
+,,,,,,75.1891162712,67.6702046441,1,"vel, vulputate eu, odio.",dobierka,nezaplatena,Odoslana
+,,,,,,97.1730949357,87.4557854421,0,"velit egestas lacinia. Sed congue, elit",dobierka,nezaplatena,Vybavena
+,,,,,,13.8461413328,12.4615271995,1,magnis dis parturient,dobierka,zaplatena,Zrusena
+,,,,,,8.0061750486,7.2055575438,0,a felis ullamcorper viverra.,kurier,nezaplatena,Prijata
+,,,,,,54.2868248653,48.8581423787,0,"lorem, luctus ut,",osobny_odber,nezaplatena,Vybavena
+,,,,,,62.3721154407,56.1349038966,1,magna. Cras convallis convallis dolor.,kurier,zaplatena,Vybavena
+,,,,,,75.9697935078,68.372814157,0,"cursus non, egestas a, dui. Cras",dobierka,zaplatena,Odoslana
+,,,,,,12.0736966841,10.8663270157,1,id risus quis,osobny_odber,zaplatena,Zrusena
+,,,,,,17.6694543101,15.9025088791,0,Aenean euismod mauris,dobierka,nezaplatena,Prijata
+,,,,,,48.5707529355,43.7136776419,1,in sodales elit,osobny_odber,zaplatena,Vybavena
+,,,,,,8.881783532,7.9936051788,0,et magnis dis,dobierka,zaplatena,Vybavena
+,,,,,,64.2096859869,57.7887173882,1,magna. Suspendisse tristique neque venenatis,kurier,nezaplatena,Pripravuje sa
+,,,,,,93.8899950124,84.5009955112,0,"nisi nibh lacinia orci, consectetuer",osobny_odber,nezaplatena,Vybavena
+,,,,,,99.6463288553,89.6816959698,1,"parturient montes, nascetur ridiculus mus.",dobierka,zaplatena,Zrusena
+,,,,,,71.029901132,63.9269110188,0,"eu, ultrices sit amet,",kurier,zaplatena,Odoslana
+,,,,,,98.08246186,88.274215674,1,Aliquam gravida mauris,osobny_odber,nezaplatena,Prijata
+,,,,,,20.9743215702,18.8768894132,0,quis diam. Pellentesque habitant,dobierka,zaplatena,Pripravuje sa
+,,,,,,4.3319134507,3.8987221057,1,mauris id sapien. Cras,osobny_odber,zaplatena,Odoslana
+,,,,,,15.471309796,13.9241788164,0,ipsum primis in faucibus orci luctus,kurier,nezaplatena,Zrusena
+,,,,,,73.0771308299,65.7694177469,1,"magna, malesuada vel, convallis",dobierka,nezaplatena,Pripravuje sa
+,,,,,,79.5922140125,71.6329926113,1,nonummy. Fusce fermentum fermentum,dobierka,nezaplatena,Zrusena
+,,,,,,52.9176782351,47.6259104116,0,"Nam ligula elit,",kurier,zaplatena,Vybavena
+,,,,,,90.5170636252,81.4653572626,0,sit amet risus. Donec,dobierka,zaplatena,Odoslana
+,,,,,,89.3927415833,80.453467425,1,risus. Duis a mi fringilla,kurier,nezaplatena,Prijata
+,,,,,,2.9098107945,2.6188297151,0,"dis parturient montes, nascetur",osobny_odber,zaplatena,Prijata
+,,,,,,87.91574426,79.124169834,1,sem molestie sodales. Mauris blandit enim,kurier,zaplatena,Vybavena
+,,,,,,1.380413631,1.2423722679,0,"nonummy ut, molestie in,",dobierka,nezaplatena,Odoslana
+,,,,,,76.3053427916,68.6748085124,1,Ut sagittis lobortis mauris.,dobierka,zaplatena,Zrusena
+,,,,,,97.9890367948,88.1901331153,0,"nunc nulla vulputate dui, nec tempus",kurier,nezaplatena,Vybavena
+,,,,,,84.7156893462,76.2441204116,0,"ut, pharetra sed, hendrerit a, arcu.",kurier,zaplatena,Pripravuje sa
+,,,,,,72.9500657879,65.6550592091,1,nisi. Mauris nulla. Integer urna. Vivamus,osobny_odber,zaplatena,Vybavena
+,,,,,,73.1781531125,65.8603378013,0,volutpat. Nulla dignissim. Maecenas ornare,kurier,zaplatena,Pripravuje sa
+,,,,,,81.8887842819,73.6999058537,1,sociis natoque penatibus et magnis,osobny_odber,zaplatena,Zrusena
+,,,,,,86.7962071206,78.1165864086,0,vel est tempor,dobierka,zaplatena,Zrusena
+,,,,,,81.1843281612,73.0658953451,1,"eu, accumsan sed,",dobierka,nezaplatena,Prijata
+,,,,,,36.1756091472,32.5580482325,0,quam. Pellentesque habitant morbi,dobierka,nezaplatena,Pripravuje sa
+,,,,,,49.1683226079,44.2514903471,1,Curabitur dictum. Phasellus,kurier,nezaplatena,Odoslana
+,,,,,,57.1541217156,51.438709544,0,Class aptent taciti sociosqu ad litora,dobierka,nezaplatena,Prijata
+,,,,,,48.2493058313,43.4243752481,1,ornare tortor at,kurier,zaplatena,Zrusena
+,,,,,,66.837776918,60.1539992262,0,netus et malesuada fames ac,kurier,zaplatena,Prijata
+,,,,,,5.7248746511,5.152387186,1,lectus sit amet,dobierka,nezaplatena,Prijata
+,,,,,,57.1310893632,51.4179804269,0,nisi. Mauris nulla. Integer,osobny_odber,zaplatena,Zrusena
+,,,,,,31.0474629048,27.9427166143,1,"lectus rutrum urna,",osobny_odber,nezaplatena,Pripravuje sa
+,,,,,,99.6148696635,89.6533826971,0,"vulputate, risus a ultricies adipiscing, enim",dobierka,zaplatena,Zrusena
+,,,,,,56.7774182186,51.0996763967,1,natoque penatibus et magnis dis,kurier,nezaplatena,Odoslana
+,,,,,,2.0773640368,1.8696276331,1,nulla. Cras eu tellus eu,kurier,zaplatena,Pripravuje sa
+,,,,,,97.6973315701,87.9275984131,0,eu sem. Pellentesque,dobierka,nezaplatena,Vybavena
+,,,,,,77.7517398354,69.9765658518,0,nisi. Cum sociis,dobierka,zaplatena,Odoslana
+,,,,,,6.4092775341,5.7683497807,1,"nisl elementum purus,",dobierka,nezaplatena,Vybavena
+,,,,,,13.1686413661,11.8517772295,0,Donec fringilla. Donec,kurier,zaplatena,Pripravuje sa
+,,,,,,50.8288706653,45.7459835988,1,et pede. Nunc sed,dobierka,zaplatena,Vybavena
+,,,,,,86.0014915466,77.401342392,0,"venenatis a, magna. Lorem ipsum",dobierka,zaplatena,Vybavena
+,,,,,,66.0863196012,59.477687641,1,"ante blandit viverra. Donec tempus,",kurier,nezaplatena,Pripravuje sa
+,,,,,,41.3459342904,37.2113408614,0,adipiscing. Mauris molestie pharetra nibh.,kurier,nezaplatena,Pripravuje sa
+,,,,,,75.3942331299,67.8548098169,0,"Sed pharetra, felis eget varius ultrices,",osobny_odber,zaplatena,Odoslana
+,,,,,,68.9961304422,62.096517398,1,rutrum magna. Cras,osobny_odber,zaplatena,Vybavena
+,,,,,,29.2616785504,26.3355106954,0,arcu. Curabitur ut odio vel est,kurier,nezaplatena,Prijata
+,,,,,,76.7746468075,69.0971821267,1,"odio a purus. Duis elementum,",dobierka,zaplatena,Zrusena
+,,,,,,45.3014732338,40.7713259105,0,"euismod ac, fermentum vel,",dobierka,nezaplatena,Vybavena
+,,,,,,27.2507153917,24.5256438525,1,erat eget ipsum. Suspendisse sagittis. Nullam,kurier,nezaplatena,Zrusena
+,,,,,,61.4903361537,55.3413025383,0,nisl. Nulla eu,kurier,nezaplatena,Vybavena
+,,,,,,18.2515390217,16.4263851196,1,"non, feugiat nec, diam. Duis",kurier,nezaplatena,Pripravuje sa
+,,,,,,0.4288685042,0.3859816538,0,"ullamcorper, nisl arcu iaculis",osobny_odber,nezaplatena,Vybavena
+,,,,,,43.3791204356,39.041208392,1,primis in faucibus orci luctus et,kurier,nezaplatena,Prijata
+,,,,,,5.0477461424,4.5429715281,0,"pretium et, rutrum",kurier,zaplatena,Zrusena
+,,,,,,81.6131966654,73.4518769989,1,"nec, imperdiet nec, leo.",osobny_odber,nezaplatena,Zrusena
+,,,,,,79.5547296293,71.5992566664,0,Integer aliquam adipiscing lacus.,dobierka,zaplatena,Vybavena
+,,,,,,54.2160687502,48.7944618752,1,"Fusce diam nunc, ullamcorper eu,",dobierka,zaplatena,Zrusena
+,,,,,,38.767318381,34.8905865429,0,"nisl elementum purus, accumsan interdum libero",osobny_odber,nezaplatena,Prijata
+,,,,,,27.8040354606,25.0236319145,1,purus ac tellus. Suspendisse sed,osobny_odber,nezaplatena,Pripravuje sa
+,,,,,,21.0538456682,18.9484611014,1,consequat enim diam vel arcu.,osobny_odber,nezaplatena,Prijata
+,,,,,,44.4921930321,40.0429737289,0,"ornare, facilisis eget, ipsum.",kurier,nezaplatena,Zrusena
+,,,,,,84.9351248704,76.4416123834,0,"pretium aliquet, metus urna convallis",kurier,zaplatena,Pripravuje sa
+,,,,,,52.1013086196,46.8911777576,1,suscipit nonummy. Fusce,dobierka,nezaplatena,Prijata
+,,,,,,44.1070627421,39.6963564679,0,fermentum convallis ligula. Donec,dobierka,nezaplatena,Vybavena
+,,,,,,41.7125430889,37.54128878,1,Fusce fermentum fermentum arcu. Vestibulum ante,dobierka,nezaplatena,Vybavena
+,,,,,,54.1786726564,48.7608053908,0,commodo tincidunt nibh. Phasellus,kurier,nezaplatena,Prijata
+,,,,,,41.8043943122,37.623954881,1,"eleifend vitae, erat.",dobierka,zaplatena,Odoslana
+,,,,,,19.4642829243,17.5178546319,0,euismod urna. Nullam lobortis quam,osobny_odber,zaplatena,Odoslana
+,,,,,,60.5879501905,54.5291551715,0,nec ante blandit viverra.,osobny_odber,zaplatena,Prijata
+,,,,,,54.9730356783,49.4757321104,1,Suspendisse commodo tincidunt nibh.,kurier,zaplatena,Pripravuje sa
+,,,,,,70.2931536362,63.2638382725,0,"quis accumsan convallis, ante lectus convallis",kurier,zaplatena,Prijata
+,,,,,,46.5894417372,41.9304975634,1,fermentum convallis ligula.,osobny_odber,nezaplatena,Vybavena
+,,,,,,21.059355326,18.9534197934,0,"porta elit, a feugiat tellus lorem",dobierka,zaplatena,Pripravuje sa
+,,,,,,11.6390879266,10.4751791339,1,eget odio. Aliquam vulputate,osobny_odber,nezaplatena,Pripravuje sa
+,,,,,,21.9836749136,19.7853074223,0,"sed, est. Nunc",kurier,zaplatena,Vybavena
+,,,,,,90.0554857682,81.0499371914,1,"et magnis dis parturient montes, nascetur",kurier,nezaplatena,Zrusena
+,,,,,,40.9007665236,36.8106898712,0,"Phasellus nulla. Integer vulputate,",dobierka,zaplatena,Vybavena
+,,,,,,98.7583217211,88.882489549,1,feugiat metus sit,kurier,nezaplatena,Pripravuje sa
+,,,,,,35.3569590021,31.8212631019,0,vel nisl. Quisque fringilla euismod enim.,kurier,nezaplatena,Vybavena
+,,,,,,68.1514819153,61.3363337237,1,tortor at risus. Nunc ac,dobierka,nezaplatena,Prijata
+,,,,,,60.2486578748,54.2237920873,0,est ac facilisis,osobny_odber,nezaplatena,Prijata
+,,,,,,53.6084980238,48.2476482214,1,dignissim pharetra. Nam ac nulla. In,dobierka,zaplatena,Zrusena
+,,,,,,68.5803504195,61.7223153776,0,arcu. Sed et libero.,kurier,zaplatena,Pripravuje sa
+,,,,,,3.6277783103,3.2650004793,1,Duis gravida. Praesent eu nulla at,kurier,nezaplatena,Zrusena
+,,,,,,58.6562441662,52.7906197496,1,ornare lectus justo eu arcu. Morbi,kurier,nezaplatena,Pripravuje sa
+,,,,,,50.1935470849,45.1741923764,0,morbi tristique senectus et,osobny_odber,zaplatena,Zrusena
+,,,,,,83.1825079396,74.8642571457,0,sagittis. Nullam vitae diam. Proin dolor.,dobierka,zaplatena,Odoslana
+,,,,,,12.872312963,11.5850816667,1,varius. Nam porttitor scelerisque,dobierka,zaplatena,Vybavena
+,,,,,,88.9608655125,80.0647789612,0,egestas. Duis ac,osobny_odber,nezaplatena,Vybavena
+,,,,,,10.9865434468,9.8878891021,1,libero nec ligula,kurier,zaplatena,Vybavena
+,,,,,,33.9261586312,30.5335427681,0,eros. Proin ultrices.,dobierka,zaplatena,Vybavena
+,,,,,,33.4530585445,30.1077526901,1,"porta elit, a",kurier,zaplatena,Vybavena
+,,,,,,95.9216683172,86.3295014855,0,volutpat nunc sit,dobierka,nezaplatena,Pripravuje sa
+,,,,,,86.0274672508,77.4247205257,0,mi. Duis risus,kurier,nezaplatena,Prijata
+,,,,,,77.5601212867,69.804109158,1,Nam porttitor scelerisque neque. Nullam nisl.,kurier,nezaplatena,Vybavena
+,,,,,,37.6342114061,33.8707902655,0,velit justo nec,osobny_odber,zaplatena,Prijata
+,,,,,,40.2061399538,36.1855259584,1,"adipiscing non, luctus sit amet,",osobny_odber,nezaplatena,Zrusena
+,,,,,,19.3645155989,17.428064039,0,diam eu dolor,kurier,nezaplatena,Prijata
+,,,,,,57.098494377,51.3886449393,1,pede. Suspendisse dui. Fusce,dobierka,nezaplatena,Vybavena
+,,,,,,0.7940901443,0.7146811299,0,"nibh. Donec est mauris, rhoncus id,",kurier,zaplatena,Prijata
+,,,,,,74.3375513237,66.9037961913,1,interdum feugiat. Sed nec metus,kurier,zaplatena,Odoslana
+,,,,,,27.3916480131,24.6524832118,0,"fringilla, porttitor vulputate, posuere vulputate, lacus.",kurier,zaplatena,Prijata
+,,,,,,47.3835319281,42.6451787353,1,Nulla tempor augue ac,kurier,nezaplatena,Zrusena
+,,,,,,95.3969066497,85.8572159847,0,ut lacus. Nulla,dobierka,zaplatena,Prijata
+,,,,,,39.0307359397,35.1276623458,1,felis. Nulla tempor augue ac,kurier,zaplatena,Odoslana
+,,,,,,69.3672068417,62.4304861575,0,mus. Proin vel arcu eu,kurier,nezaplatena,Pripravuje sa
+,,,,,,85.4523924179,76.9071531761,1,purus ac tellus. Suspendisse sed dolor.,osobny_odber,nezaplatena,Odoslana
+,,,,,,79.9315024633,71.938352217,0,sapien. Nunc pulvinar arcu,osobny_odber,zaplatena,Vybavena
+,,,,,,68.1255285628,61.3129757065,1,Nullam nisl. Maecenas malesuada fringilla est.,dobierka,zaplatena,Odoslana
+,,,,,,20.80935142,18.728416278,1,urna. Ut tincidunt,osobny_odber,nezaplatena,Odoslana
+,,,,,,48.0829843786,43.2746859407,0,Nulla semper tellus id nunc,kurier,nezaplatena,Prijata
+,,,,,,28.3741864376,25.5367677938,0,Aliquam erat volutpat. Nulla,kurier,zaplatena,Vybavena
+,,,,,,74.4178494439,66.9760644995,1,"elit. Etiam laoreet, libero et tristique",osobny_odber,zaplatena,Vybavena
+,,,,,,16.6633347981,14.9970013183,0,volutpat. Nulla dignissim. Maecenas ornare egestas,kurier,nezaplatena,Zrusena
+,,,,,,32.0019647479,28.8017682731,1,"auctor ullamcorper, nisl arcu",dobierka,zaplatena,Vybavena
+,,,,,,33.07409361,29.766684249,0,"quis lectus. Nullam suscipit, est",kurier,zaplatena,Vybavena
+,,,,,,66.8568819296,60.1711937366,1,"torquent per conubia nostra, per inceptos",osobny_odber,zaplatena,Pripravuje sa
+,,,,,,15.1844727341,13.6660254607,0,nunc interdum feugiat. Sed,osobny_odber,nezaplatena,Pripravuje sa
+,,,,,,45.9464065731,41.3517659158,0,"eu, ligula. Aenean",dobierka,nezaplatena,Prijata
+,,,,,,55.8177474421,50.2359726978,1,"mollis non, cursus non, egestas a,",kurier,nezaplatena,Vybavena
+,,,,,,26.1710161809,23.5539145628,0,ornare egestas ligula. Nullam,kurier,zaplatena,Prijata
+,,,,,,79.8725652508,71.8853087258,1,semper pretium neque.,dobierka,nezaplatena,Vybavena
+,,,,,,89.2708059866,80.3437253879,0,"tincidunt orci quis lectus. Nullam suscipit,",kurier,nezaplatena,Zrusena
+,,,,,,22.0926844981,19.8834160483,1,aptent taciti sociosqu,kurier,nezaplatena,Prijata
+,,,,,,65.9000325017,59.3100292515,0,sit amet risus.,kurier,zaplatena,Prijata
+,,,,,,66.8309273198,60.1478345878,1,"semper erat, in consectetuer ipsum nunc",dobierka,zaplatena,Zrusena
+,,,,,,59.7268959042,53.7542063138,0,ultrices posuere cubilia Curae;,osobny_odber,nezaplatena,Odoslana
+,,,,,,6.1061724555,5.4955552099,1,feugiat metus sit,kurier,zaplatena,Pripravuje sa
+,,,,,,86.1954429187,77.5758986268,0,"in, hendrerit consectetuer, cursus et,",kurier,nezaplatena,Vybavena
+,,,,,,16.8253902812,15.142851253,1,"et, commodo at,",kurier,nezaplatena,Zrusena
+,,,,,,6.9002626464,6.2102363817,0,"venenatis vel, faucibus id, libero.",osobny_odber,zaplatena,Pripravuje sa
+,,,,,,60.5329942424,54.4796948181,1,"bibendum ullamcorper. Duis cursus, diam at",kurier,zaplatena,Zrusena
+,,,,,,44.2170382943,39.7953344649,0,Mauris non dui nec,osobny_odber,zaplatena,Odoslana
+,,,,,,54.2837945744,48.855415117,1,"Lorem ipsum dolor sit amet,",osobny_odber,nezaplatena,Vybavena
+,,,,,,55.9299008921,50.3369108029,1,"ipsum dolor sit amet, consectetuer adipiscing",kurier,nezaplatena,Pripravuje sa
+,,,,,,83.2477742806,74.9229968525,0,id ante dictum,dobierka,nezaplatena,Zrusena
+,,,,,,23.6510014161,21.2859012745,0,"ut dolor dapibus gravida. Aliquam tincidunt,",osobny_odber,nezaplatena,Pripravuje sa
+,,,,,,41.38229331,37.244063979,1,Suspendisse sagittis. Nullam,osobny_odber,zaplatena,Prijata
+,,,,,,63.1792767439,56.8613490695,0,sed orci lobortis augue scelerisque mollis.,kurier,zaplatena,Zrusena
+,,,,,,91.776529979,82.5988769811,1,arcu. Sed eu nibh,kurier,zaplatena,Pripravuje sa
+,,,,,,62.19164473,55.972480257,0,porttitor eros nec tellus. Nunc,osobny_odber,nezaplatena,Zrusena
+,,,,,,11.262261169,10.1360350521,1,lectus justo eu arcu. Morbi sit,dobierka,zaplatena,Pripravuje sa
+,,,,,,20.1507164165,18.1356447749,0,pharetra. Quisque ac libero nec ligula,dobierka,zaplatena,Odoslana
+,,,,,,36.6094941739,32.9485447565,0,luctus aliquet odio. Etiam,osobny_odber,zaplatena,Prijata
+,,,,,,27.9255959671,25.1330363704,1,"augue ut lacus. Nulla tincidunt, neque",dobierka,zaplatena,Vybavena
+,,,,,,52.1526811644,46.937413048,0,facilisis lorem tristique,dobierka,nezaplatena,Vybavena
+,,,,,,69.6835878305,62.7152290475,1,consequat dolor vitae,osobny_odber,zaplatena,Zrusena
+,,,,,,94.7824778967,85.304230107,0,Aliquam erat volutpat. Nulla dignissim.,kurier,zaplatena,Vybavena
+,,,,,,67.3371538986,60.6034385087,1,"Fusce diam nunc, ullamcorper",dobierka,zaplatena,Odoslana
+,,,,,,15.6299944036,14.0669949632,0,Pellentesque tincidunt tempus risus.,osobny_odber,zaplatena,Odoslana
+,,,,,,50.6002253387,45.5402028048,1,"odio, auctor vitae, aliquet nec, imperdiet",osobny_odber,nezaplatena,Pripravuje sa
+,,,,,,93.5081700794,84.1573530715,0,Sed eget lacus. Mauris non,kurier,zaplatena,Prijata
+,,,,,,95.5025596544,85.952303689,1,"Donec felis orci, adipiscing non, luctus",kurier,zaplatena,Zrusena
+,,,,,,39.8710313719,35.8839282347,0,"vitae semper egestas,",osobny_odber,zaplatena,Vybavena
+,,,,,,15.6008545775,14.0407691197,1,"consectetuer, cursus et,",dobierka,zaplatena,Odoslana
+,,,,,,61.4025922026,55.2623329824,0,eu turpis. Nulla,kurier,zaplatena,Vybavena
+,,,,,,6.7019586917,6.0317628225,1,pretium neque. Morbi,osobny_odber,zaplatena,Odoslana
+,,,,,,75.3277505282,67.7949754754,0,magna. Ut tincidunt orci quis,kurier,zaplatena,Vybavena
+,,,,,,67.5087646581,60.7578881923,1,nec metus facilisis lorem tristique aliquet.,kurier,nezaplatena,Pripravuje sa
+,,,,,,928.9740161039,836.0766144935,1,Curae; Phasellus ornare. Fusce,kurier,zaplatena,Vybavena
+,,,,,,921.5314080939,829.3782672845,0,varius. Nam porttitor scelerisque,kurier,nezaplatena,Prijata
+,,,,,,744.090273045,669.6812457405,0,"luctus ut, pellentesque eget, dictum placerat,",kurier,zaplatena,Pripravuje sa
+,,,,,,534.3039589934,480.8735630941,1,ligula. Aenean euismod mauris eu,kurier,nezaplatena,Prijata
+,,,,,,363.7017915025,327.3316123523,0,"dolor dolor, tempus non,",kurier,zaplatena,Vybavena
+,,,,,,286.9282187894,258.2353969105,1,ligula. Donec luctus aliquet odio.,kurier,zaplatena,Prijata
+,,,,,,93.6029679142,84.2426711228,0,"lacinia vitae, sodales at,",osobny_odber,zaplatena,Zrusena
+,,,,,,196.1795343086,176.5615808778,1,lacus. Ut nec urna,kurier,nezaplatena,Prijata
+,,,,,,523.4382329509,471.0944096558,0,fames ac turpis egestas. Aliquam fringilla,osobny_odber,nezaplatena,Zrusena
+,,,,,,507.42590148,456.683311332,0,enim. Etiam gravida molestie,kurier,zaplatena,Zrusena
+,,,,,,827.9723017477,745.1750715729,1,"congue a, aliquet",dobierka,nezaplatena,Vybavena
+,,,,,,441.2035327405,397.0831794664,0,natoque penatibus et magnis dis,kurier,zaplatena,Zrusena
+,,,,,,129.3423487805,116.4081139024,1,"Suspendisse dui. Fusce diam nunc,",osobny_odber,nezaplatena,Zrusena
+,,,,,,940.594913438,846.5354220942,0,"ultrices sit amet, risus.",kurier,nezaplatena,Prijata
+,,,,,,642.7106969059,578.4396272153,1,"bibendum ullamcorper. Duis cursus, diam at",osobny_odber,nezaplatena,Prijata
+,,,,,,495.4372909851,445.8935618866,0,ridiculus mus. Donec,osobny_odber,nezaplatena,Pripravuje sa
+,,,,,,219.8508735746,197.8657862172,1,"orci, adipiscing non, luctus",osobny_odber,nezaplatena,Vybavena
+,,,,,,164.2375090159,147.8137581144,0,facilisis lorem tristique aliquet. Phasellus fermentum,osobny_odber,zaplatena,Prijata
+,,,,,,192.2731692903,173.0458523612,1,"a purus. Duis elementum, dui quis",kurier,zaplatena,Pripravuje sa
+,,,,,,167.6756525412,150.9080872871,0,"egestas a, dui. Cras",dobierka,nezaplatena,Odoslana
+,,,,,,837.6090480015,753.8481432013,1,"vestibulum, neque sed dictum eleifend,",kurier,zaplatena,Odoslana
+,,,,,,348.573113326,313.7158019934,0,Aliquam vulputate ullamcorper,kurier,nezaplatena,Pripravuje sa
+,,,,,,673.677906394,606.3101157546,1,"nibh enim, gravida",dobierka,nezaplatena,Vybavena
+,,,,,,772.6907492615,695.4216743354,0,lectus justo eu arcu.,kurier,nezaplatena,Prijata
+,,,,,,303.5987103358,273.2388393022,1,metus. Aenean sed pede,dobierka,nezaplatena,Vybavena
+,,,,,,72.3882201128,65.1493981015,1,aliquam eros turpis non enim. Mauris,osobny_odber,nezaplatena,Vybavena
+,,,,,,928.6992950365,835.8293655328,0,eget lacus. Mauris non dui nec,kurier,nezaplatena,Zrusena
+,,,,,,917.6246323623,825.862169126,0,facilisis. Suspendisse commodo,osobny_odber,nezaplatena,Vybavena
+,,,,,,139.4078070298,125.4670263268,1,tempor arcu. Vestibulum ut eros,kurier,zaplatena,Vybavena
+,,,,,,681.9768003188,613.7791202869,0,at arcu. Vestibulum,kurier,nezaplatena,Vybavena
+,,,,,,592.7122789435,533.4410510492,1,"nonummy ac, feugiat non, lobortis",dobierka,nezaplatena,Odoslana
+,,,,,,68.3818231337,61.5436408203,0,sed orci lobortis augue,osobny_odber,zaplatena,Vybavena
+,,,,,,603.5082088783,543.1573879905,1,"placerat, orci lacus vestibulum lorem,",dobierka,zaplatena,Pripravuje sa
+,,,,,,336.8025524542,303.1222972088,0,et libero. Proin mi.,dobierka,zaplatena,Zrusena
+,,,,,,602.6857821271,542.4172039144,0,"varius orci, in consequat",kurier,zaplatena,Vybavena
+,,,,,,967.2100003809,870.4890003428,1,velit. Quisque varius.,dobierka,zaplatena,Zrusena
+,,,,,,623.7307712436,561.3576941192,0,In tincidunt congue,dobierka,nezaplatena,Prijata
+,,,,,,696.2887505069,626.6598754562,1,nec tempus mauris erat eget,kurier,zaplatena,Zrusena
+,,,,,,163.3895346895,147.0505812205,0,"sit amet, consectetuer adipiscing elit. Aliquam",kurier,zaplatena,Vybavena
+,,,,,,147.1690046601,132.4521041941,1,"porta elit, a feugiat tellus",kurier,zaplatena,Vybavena
+,,,,,,203.714651987,183.3431867883,0,enim. Etiam gravida molestie arcu.,osobny_odber,zaplatena,Prijata
+,,,,,,991.3618364371,892.2256527934,1,"venenatis a, magna. Lorem",dobierka,zaplatena,Zrusena
+,,,,,,588.3725374006,529.5352836605,0,odio vel est tempor bibendum.,kurier,nezaplatena,Pripravuje sa
+,,,,,,333.0570007674,299.7513006907,1,"enim, condimentum eget,",osobny_odber,nezaplatena,Prijata
+,,,,,,931.9567503408,838.7610753067,0,"elementum, lorem ut aliquam iaculis,",kurier,zaplatena,Vybavena
+,,,,,,231.0832347721,207.9749112949,1,"Sed diam lorem,",osobny_odber,zaplatena,Vybavena
+,,,,,,828.4942917526,745.6448625773,0,feugiat. Sed nec,osobny_odber,nezaplatena,Prijata
+,,,,,,151.8076239154,136.6268615238,1,"vitae, posuere at,",osobny_odber,nezaplatena,Odoslana
+,,,,,,395.320743788,355.7886694092,0,vitae sodales nisi,osobny_odber,zaplatena,Zrusena
+,,,,,,20.7674610429,18.6907149386,1,sit amet diam eu,dobierka,zaplatena,Pripravuje sa
+,,,,,,319.4832764566,287.5349488109,1,"nulla magna, malesuada vel, convallis in,",dobierka,nezaplatena,Odoslana
+,,,,,,232.9297917895,209.6368126106,0,ac tellus. Suspendisse sed dolor. Fusce,osobny_odber,zaplatena,Vybavena
+,,,,,,369.3405748345,332.406517351,0,eu augue porttitor interdum.,dobierka,nezaplatena,Vybavena
+,,,,,,993.1611828506,893.8450645655,1,eleifend. Cras sed leo.,dobierka,nezaplatena,Vybavena
+,,,,,,5.620541051,5.0584869459,0,"viverra. Donec tempus, lorem fringilla ornare",osobny_odber,zaplatena,Zrusena
+,,,,,,672.9392851703,605.6453566533,1,vulputate ullamcorper magna. Sed,kurier,zaplatena,Prijata
+,,,,,,65.5494029634,58.994462667,0,"Aliquam ornare, libero",dobierka,nezaplatena,Zrusena
+,,,,,,934.3198365532,840.8878528979,1,"dolor, nonummy ac,",osobny_odber,nezaplatena,Odoslana
+,,,,,,590.5639175326,531.5075257793,0,Ut sagittis lobortis,kurier,zaplatena,Vybavena
+,,,,,,204.9572099932,184.4614889938,0,"mi. Duis risus odio,",kurier,zaplatena,Odoslana
+,,,,,,616.296636872,554.6669731848,1,"aliquam, enim nec tempus scelerisque, lorem",osobny_odber,nezaplatena,Zrusena
+,,,,,,183.2761964761,164.9485768285,0,"et, eros. Proin ultrices.",kurier,nezaplatena,Odoslana
+,,,,,,273.3390335925,246.0051302332,1,"vulputate dui, nec tempus",osobny_odber,nezaplatena,Prijata
+,,,,,,219.8048457503,197.8243611753,0,"eu, euismod ac, fermentum",dobierka,nezaplatena,Odoslana
+,,,,,,520.0787489302,468.0708740372,1,"orci, in consequat",kurier,nezaplatena,Pripravuje sa
+,,,,,,876.0248157196,788.4223341476,0,ante. Maecenas mi,dobierka,nezaplatena,Pripravuje sa
+,,,,,,187.0148461312,168.3133615181,1,enim. Nunc ut erat. Sed nunc,osobny_odber,zaplatena,Odoslana
+,,,,,,143.8095206395,129.4285685755,0,sit amet orci. Ut sagittis lobortis,kurier,nezaplatena,Odoslana
+,,,,,,572.3135662265,515.0822096039,1,"ligula elit, pretium",dobierka,nezaplatena,Odoslana
+,,,,,,350.4043808207,315.3639427386,0,"dolor sit amet, consectetuer adipiscing",dobierka,nezaplatena,Vybavena
+,,,,,,290.9785252996,261.8806727696,1,Ut sagittis lobortis mauris. Suspendisse aliquet,dobierka,nezaplatena,Prijata
+,,,,,,776.0282182135,698.4253963921,0,"Etiam ligula tortor,",dobierka,nezaplatena,Vybavena
+,,,,,,341.7662177235,307.5895959511,1,Mauris vel turpis. Aliquam adipiscing,kurier,zaplatena,Odoslana
+,,,,,,879.3510627002,791.4159564301,0,mi. Aliquam gravida mauris ut,osobny_odber,zaplatena,Odoslana
+,,,,,,109.0852194466,98.1766975019,1,"odio a purus. Duis elementum, dui",kurier,nezaplatena,Odoslana
+,,,,,,273.7229680642,246.3506712578,1,Nullam vitae diam. Proin dolor. Nulla,dobierka,zaplatena,Prijata
+,,,,,,110.4342974722,99.390867725,0,Integer in magna.,osobny_odber,zaplatena,Prijata
+,,,,,,937.5795111991,843.8215600792,0,"mauris. Integer sem elit,",kurier,nezaplatena,Odoslana
+,,,,,,425.5305919796,382.9775327817,1,"ornare, elit elit fermentum",dobierka,zaplatena,Zrusena
+,,,,,,505.7550412603,455.1795371342,0,malesuada fames ac turpis egestas. Aliquam,osobny_odber,nezaplatena,Vybavena
+,,,,,,958.3469727077,862.5122754369,1,vitae dolor. Donec fringilla. Donec,osobny_odber,nezaplatena,Odoslana
+,,,,,,745.0138684362,670.5124815926,0,Proin vel nisl. Quisque fringilla euismod,osobny_odber,nezaplatena,Vybavena
+,,,,,,738.6848335154,664.8163501639,1,"augue ut lacus. Nulla tincidunt, neque",kurier,zaplatena,Pripravuje sa
+,,,,,,327.6875475422,294.9187927879,0,ac ipsum. Phasellus,dobierka,nezaplatena,Vybavena
+,,,,,,738.1750517525,664.3575465772,0,Nam porttitor scelerisque,kurier,zaplatena,Zrusena
+,,,,,,744.3053745665,669.8748371098,1,"Sed nulla ante,",osobny_odber,nezaplatena,Zrusena
+,,,,,,0.6268327124,0.5641494412,0,"ultrices sit amet, risus. Donec",kurier,nezaplatena,Zrusena
+,,,,,,803.7244547158,723.3520092443,1,nisl. Quisque fringilla euismod enim. Etiam,dobierka,nezaplatena,Pripravuje sa
+,,,,,,678.6252111197,610.7626900077,0,nec orci. Donec nibh. Quisque,osobny_odber,nezaplatena,Odoslana
+,,,,,,591.190750245,532.0716752205,1,Donec fringilla. Donec,kurier,nezaplatena,Zrusena
+,,,,,,8.6816651747,7.8134986572,0,luctus lobortis. Class aptent taciti,osobny_odber,nezaplatena,Prijata
+,,,,,,294.9218484573,265.4296636116,1,lacus. Cras interdum. Nunc sollicitudin commodo,dobierka,zaplatena,Pripravuje sa
+,,,,,,774.4669467211,697.020252049,0,pede blandit congue.,osobny_odber,nezaplatena,Odoslana
+,,,,,,282.0206987672,253.8186288904,1,diam. Proin dolor.,kurier,nezaplatena,Odoslana
+,,,,,,514.7266942076,463.2540247869,0,"ac mattis ornare, lectus ante dictum",dobierka,zaplatena,Pripravuje sa
+,,,,,,294.545696117,265.0911265053,1,sed tortor. Integer aliquam adipiscing,osobny_odber,nezaplatena,Zrusena
+,,,,,,158.0455144867,142.2409630381,0,"mattis. Integer eu lacus. Quisque imperdiet,",dobierka,zaplatena,Odoslana
+,,,,,,701.7415408045,631.5673867241,1,"enim, sit amet ornare",kurier,zaplatena,Odoslana
+,,,,,,438.3552167565,394.5196950808,0,"et, rutrum non, hendrerit id, ante.",dobierka,nezaplatena,Prijata
+,,,,,,730.3590811789,657.323173061,1,varius. Nam porttitor scelerisque neque.,dobierka,nezaplatena,Prijata
+,,,,,,52.1459216252,46.9313294627,1,facilisis. Suspendisse commodo tincidunt nibh. Phasellus,kurier,zaplatena,Pripravuje sa
+,,,,,,729.333742056,656.4003678504,0,id ante dictum cursus.,dobierka,zaplatena,Pripravuje sa
+,,,,,,506.3872993924,455.7485694531,0,aliquet. Proin velit. Sed,osobny_odber,nezaplatena,Vybavena
+,,,,,,393.9121393487,354.5209254138,1,tincidunt dui augue eu tellus. Phasellus,kurier,nezaplatena,Prijata
+,,,,,,608.6848047562,547.8163242806,0,Sed auctor odio,dobierka,nezaplatena,Pripravuje sa
+,,,,,,615.4725188389,553.925266955,1,vel pede blandit congue. In,kurier,zaplatena,Pripravuje sa
+,,,,,,667.6351074129,600.8715966716,0,"dui, nec tempus mauris erat",dobierka,zaplatena,Pripravuje sa
+,,,,,,719.1191026941,647.2071924247,1,placerat velit. Quisque varius. Nam porttitor,osobny_odber,zaplatena,Odoslana
+,,,,,,553.0520305038,497.7468274534,0,vitae purus gravida sagittis. Duis gravida.,dobierka,zaplatena,Odoslana
+,,,,,,93.1656993926,83.8491294533,0,enim. Nunc ut erat. Sed,kurier,zaplatena,Pripravuje sa
+,,,,,,224.8741439544,202.3867295589,1,natoque penatibus et,osobny_odber,zaplatena,Zrusena
+,,,,,,511.3990032114,460.2591028903,0,pharetra. Quisque ac,dobierka,nezaplatena,Pripravuje sa
+,,,,,,838.1795682944,754.361611465,1,"magnis dis parturient montes, nascetur",osobny_odber,nezaplatena,Zrusena
+,,,,,,963.5589774698,867.2030797228,0,"Maecenas mi felis, adipiscing fringilla,",kurier,zaplatena,Pripravuje sa
+,,,,,,839.0865507536,755.1778956782,1,cursus. Integer mollis.,dobierka,zaplatena,Prijata
+,,,,,,576.3546200469,518.7191580422,0,imperdiet ornare. In faucibus. Morbi,kurier,zaplatena,Zrusena
+,,,,,,707.8643525019,637.0779172517,1,Aenean euismod mauris eu,osobny_odber,zaplatena,Prijata
+,,,,,,839.713383466,755.7420451194,0,"et, magna. Praesent interdum ligula",dobierka,nezaplatena,Odoslana
+,,,,,,380.0790747628,342.0711672865,1,ac metus vitae,osobny_odber,zaplatena,Odoslana
+,,,,,,386.4895636216,347.8406072594,0,turpis nec mauris,dobierka,zaplatena,Zrusena
+,,,,,,430.904133711,387.8137203399,1,"dui, nec tempus mauris erat eget",osobny_odber,zaplatena,Prijata
+,,,,,,388.7607399374,349.8846659437,0,ligula eu enim. Etiam,dobierka,zaplatena,Prijata
+,,,,,,681.4114120789,613.270270871,1,libero. Proin sed turpis nec,dobierka,nezaplatena,Pripravuje sa
+,,,,,,205.3710804321,184.8339723889,0,eu odio tristique,kurier,nezaplatena,Prijata
+,,,,,,670.7814387046,603.7032948341,1,erat volutpat. Nulla facilisis. Suspendisse,kurier,zaplatena,Prijata
+,,,,,,196.1381067522,176.524296077,1,arcu. Morbi sit amet,dobierka,nezaplatena,Vybavena
+,,,,,,499.9167765491,449.9250988942,0,purus mauris a nunc.,osobny_odber,zaplatena,Zrusena
+,,,,,,828.826953657,745.9442582913,0,libero nec ligula,kurier,zaplatena,Prijata
+,,,,,,897.8796475567,808.091682801,1,tincidunt pede ac urna. Ut,osobny_odber,zaplatena,Odoslana
+,,,,,,938.2719933055,844.444793975,0,"ac mattis ornare,",osobny_odber,nezaplatena,Zrusena
+,,,,,,559.1860348359,503.2674313523,1,Donec vitae erat,dobierka,zaplatena,Prijata
+,,,,,,950.0255691819,855.0230122637,0,urna et arcu imperdiet,kurier,nezaplatena,Vybavena
+,,,,,,667.6057353616,600.8451618254,1,"scelerisque mollis. Phasellus libero mauris,",dobierka,nezaplatena,Prijata
+,,,,,,65.5733342282,59.0160008054,0,"risus. Donec nibh enim, gravida",osobny_odber,nezaplatena,Vybavena
+,,,,,,343.9377089962,309.5439380966,0,urna suscipit nonummy. Fusce,kurier,zaplatena,Zrusena
+,,,,,,276.2905405834,248.6614865251,1,"nibh. Donec est mauris,",osobny_odber,zaplatena,Zrusena
+,,,,,,681.0458535329,612.9412681796,0,Duis dignissim tempor arcu. Vestibulum ut,dobierka,zaplatena,Zrusena
+,,,,,,11.5728164092,10.4155347683,1,amet ornare lectus justo,kurier,zaplatena,Prijata
+,,,,,,995.4096432775,895.8686789498,0,"nec tempus scelerisque, lorem ipsum sodales",dobierka,zaplatena,Prijata
+,,,,,,234.0978840366,210.6880956329,1,rhoncus. Proin nisl,dobierka,nezaplatena,Prijata
+,,,,,,104.7385162674,94.2646646407,0,ac turpis egestas.,dobierka,nezaplatena,Odoslana
+,,,,,,220.2837872319,198.2554085087,1,Cras sed leo.,kurier,nezaplatena,Pripravuje sa
+,,,,,,745.496887248,670.9471985232,0,"consequat nec, mollis",dobierka,nezaplatena,Prijata
+,,,,,,942.9180845618,848.6262761056,1,"consequat auctor, nunc nulla vulputate",osobny_odber,zaplatena,Zrusena
+,,,,,,183.8427651674,165.4584886506,0,Pellentesque ut ipsum ac,kurier,zaplatena,Prijata
+,,,,,,584.5834380016,526.1250942014,1,"lacus vestibulum lorem,",kurier,nezaplatena,Vybavena
+,,,,,,519.2727046087,467.3454341479,0,quis arcu vel quam dignissim,dobierka,zaplatena,Odoslana
+,,,,,,891.7071176693,802.5364059024,1,"sit amet luctus vulputate, nisi sem",kurier,zaplatena,Prijata
+,,,,,,424.2968214676,381.8671393208,0,"luctus ut, pellentesque eget, dictum placerat,",kurier,zaplatena,Odoslana
+,,,,,,899.3517793715,809.4166014344,1,magna. Praesent interdum ligula eu enim.,osobny_odber,zaplatena,Pripravuje sa
+,,,,,,278.1966812909,250.3770131618,1,magna nec quam. Curabitur vel,kurier,nezaplatena,Prijata
+,,,,,,855.2009551786,769.6808596607,0,sociosqu ad litora,kurier,zaplatena,Pripravuje sa
+,,,,,,288.1125197746,259.3012677971,0,"id, erat. Etiam vestibulum massa",dobierka,nezaplatena,Zrusena
+,,,,,,959.6080938354,863.6472844519,1,tristique neque venenatis lacus.,osobny_odber,nezaplatena,Prijata
+,,,,,,60.5720356107,54.5148320496,0,"purus sapien, gravida",kurier,nezaplatena,Zrusena
+,,,,,,958.8939584792,863.0045626313,1,a odio semper cursus.,kurier,zaplatena,Vybavena
+,,,,,,155.7462005876,140.1715805288,0,senectus et netus et malesuada fames,osobny_odber,zaplatena,Vybavena
+,,,,,,560.4888126254,504.4399313629,1,vulputate ullamcorper magna. Sed eu eros.,kurier,zaplatena,Zrusena
+,,,,,,787.7209121361,708.9488209225,0,neque venenatis lacus. Etiam bibendum,dobierka,nezaplatena,Odoslana
+,,,,,,53.6258481443,48.2632633299,0,Ut tincidunt vehicula risus.,dobierka,nezaplatena,Pripravuje sa
+,,,,,,498.7608059309,448.8847253378,1,lobortis augue scelerisque mollis. Phasellus libero,dobierka,zaplatena,Zrusena
+,,,,,,346.906946972,312.2162522748,0,"id, erat. Etiam vestibulum massa rutrum",kurier,zaplatena,Prijata
+,,,,,,3.6514173262,3.2862755936,1,"dui. Fusce diam nunc,",osobny_odber,zaplatena,Vybavena
+,,,,,,166.3665417582,149.7298875824,0,sit amet ultricies sem,kurier,nezaplatena,Pripravuje sa
+,,,,,,412.4802816659,371.2322534993,1,arcu et pede.,dobierka,zaplatena,Vybavena
+,,,,,,347.5891263224,312.8302136902,0,turpis non enim. Mauris,kurier,nezaplatena,Prijata
+,,,,,,442.6570823416,398.3913741075,1,"Cras lorem lorem, luctus ut, pellentesque",dobierka,nezaplatena,Zrusena
+,,,,,,93.5261351988,84.1735216789,0,Nunc mauris. Morbi non sapien,dobierka,nezaplatena,Zrusena
+,,,,,,359.1619431973,323.2457488775,1,Nam ac nulla. In tincidunt,osobny_odber,nezaplatena,Zrusena
+,,,,,,438.0667256191,394.2600530572,0,"Aliquam ornare, libero at",kurier,nezaplatena,Pripravuje sa
+,,,,,,327.6240192354,294.8616173118,1,turpis. Nulla aliquet. Proin velit. Sed,osobny_odber,zaplatena,Prijata
+,,,,,,463.9004594646,417.5104135182,0,sociis natoque penatibus et,osobny_odber,zaplatena,Prijata
+,,,,,,658.350512851,592.5154615659,1,cursus purus. Nullam,osobny_odber,zaplatena,Vybavena
+,,,,,,73.1209064834,65.808815835,0,"Etiam laoreet, libero",dobierka,zaplatena,Prijata
+,,,,,,406.8185440265,366.1366896238,1,cursus vestibulum. Mauris magna. Duis dignissim,kurier,zaplatena,Odoslana
+,,,,,,842.1932780184,757.9739502165,1,"ante. Nunc mauris sapien, cursus",dobierka,zaplatena,Odoslana
+,,,,,,657.704344485,591.9339100365,0,"molestie in, tempus eu,",kurier,zaplatena,Vybavena
+,,,,,,926.0912486352,833.4821237717,0,a mi fringilla mi,osobny_odber,zaplatena,Pripravuje sa
+,,,,,,733.9003956877,660.5103561189,1,enim commodo hendrerit. Donec,kurier,nezaplatena,Odoslana
+,,,,,,82.0011659525,73.8010493573,0,Proin ultrices. Duis volutpat nunc,dobierka,zaplatena,Prijata
+,,,,,,825.4430280067,742.898725206,1,sed libero. Proin sed,osobny_odber,zaplatena,Zrusena
+,,,,,,12.0970774442,10.8873696998,0,"tellus sem mollis dui, in sodales",dobierka,zaplatena,Vybavena
+,,,,,,937.2021211311,843.481909018,1,eget massa. Suspendisse eleifend.,osobny_odber,nezaplatena,Zrusena
+,,,,,,113.5555477813,102.1999930032,0,enim. Nunc ut erat. Sed,osobny_odber,nezaplatena,Odoslana
+,,,,,,971.7051712796,874.5346541516,0,"Fusce dolor quam, elementum at,",dobierka,zaplatena,Prijata
+,,,,,,997.7741567418,897.9967410676,1,"semper erat, in consectetuer ipsum nunc",osobny_odber,nezaplatena,Prijata
+,,,,,,72.4495067261,65.2045560535,0,"sed dictum eleifend, nunc risus varius",osobny_odber,nezaplatena,Vybavena
+,,,,,,127.4513718672,114.7062346805,1,non sapien molestie orci tincidunt,dobierka,nezaplatena,Zrusena
+,,,,,,558.2629693672,502.4366724305,0,In ornare sagittis,kurier,zaplatena,Odoslana
+,,,,,,860.1704188623,774.153376976,1,gravida mauris ut,kurier,nezaplatena,Pripravuje sa
+,,,,,,181.0772200115,162.9694980104,0,eu elit. Nulla facilisi. Sed neque.,kurier,nezaplatena,Prijata
+,,,,,,57.0237757638,51.3213981874,1,"aliquet, sem ut cursus",dobierka,nezaplatena,Prijata
+,,,,,,207.0773662999,186.3696296699,0,"nec, cursus a, enim.",dobierka,nezaplatena,Vybavena
+,,,,,,184.7286373377,166.2557736039,1,et malesuada fames ac turpis,kurier,nezaplatena,Zrusena
+,,,,,,223.390317522,201.0512857698,0,nulla. Cras eu tellus eu,osobny_odber,nezaplatena,Odoslana
+,,,,,,619.5576479658,557.6018831693,1,"blandit viverra. Donec tempus, lorem",osobny_odber,zaplatena,Prijata
+,,,,,,532.3177641258,479.0859877132,0,"malesuada id, erat. Etiam vestibulum",kurier,nezaplatena,Pripravuje sa
+,,,,,,666.0473998636,599.4426598772,1,Etiam gravida molestie arcu. Sed,kurier,zaplatena,Vybavena
+,,,,,,713.0837831646,641.7754048482,0,"tellus faucibus leo,",osobny_odber,zaplatena,Prijata
+,,,,,,891.479707323,802.3317365907,1,"odio. Etiam ligula tortor, dictum",osobny_odber,nezaplatena,Pripravuje sa
+,,,,,,104.1141254827,93.7027129345,1,Aliquam erat volutpat. Nulla facilisis.,osobny_odber,nezaplatena,Pripravuje sa
+,,,,,,40.7078024,36.63702216,0,"dui. Fusce aliquam,",dobierka,zaplatena,Pripravuje sa
+,,,,,,355.3801667877,319.8421501089,0,"Cras lorem lorem, luctus ut, pellentesque",dobierka,nezaplatena,Odoslana
+,,,,,,762.4646383338,686.2181745004,1,dui. Cum sociis natoque penatibus,dobierka,nezaplatena,Prijata
+,,,,,,113.8287088834,102.445837995,0,massa rutrum magna. Cras convallis convallis,osobny_odber,zaplatena,Odoslana
+,,,,,,762.1987108141,685.9788397327,1,Vivamus sit amet risus.,kurier,zaplatena,Vybavena
+,,,,,,604.6579168178,544.192125136,0,Duis ac arcu. Nunc mauris. Morbi,kurier,nezaplatena,Zrusena
+,,,,,,771.5330533683,694.3797480315,1,"a, magna. Lorem ipsum dolor sit",kurier,zaplatena,Prijata
+,,,,,,688.2899594493,619.4609635044,0,lorem semper auctor. Mauris,osobny_odber,zaplatena,Vybavena
+,,,,,,338.5583125055,304.7024812549,0,porttitor scelerisque neque. Nullam nisl.,osobny_odber,nezaplatena,Pripravuje sa
+,,,,,,853.5342193209,768.1807973888,1,arcu. Sed eu,kurier,zaplatena,Pripravuje sa
+,,,,,,513.732987456,462.3596887104,0,non enim commodo hendrerit. Donec,osobny_odber,nezaplatena,Prijata
+,,,,,,350.6553899497,315.5898509547,1,nec ante blandit,osobny_odber,nezaplatena,Vybavena
+,,,,,,790.736340452,711.6627064068,0,metus vitae velit,kurier,zaplatena,Zrusena
+,,,,,,627.288535703,564.5596821327,1,"Duis risus odio, auctor vitae,",kurier,nezaplatena,Prijata
+,,,,,,322.3605612293,290.1245051064,0,dictum magna. Ut tincidunt orci quis,osobny_odber,zaplatena,Odoslana
+,,,,,,788.5104971938,709.6594474744,1,porttitor interdum. Sed auctor odio a,kurier,nezaplatena,Zrusena
+,,,,,,699.7380424291,629.7642381862,0,"euismod in, dolor. Fusce feugiat.",osobny_odber,nezaplatena,Prijata
+,,,,,,449.8119330965,404.8307397868,1,"dictum eu, eleifend",osobny_odber,nezaplatena,Odoslana
+,,,,,,346.7734670267,312.096120324,0,Vivamus sit amet risus. Donec,kurier,nezaplatena,Zrusena
+,,,,,,559.9084612913,503.9176151622,1,"accumsan convallis, ante lectus convallis est,",osobny_odber,zaplatena,Vybavena
+,,,,,,630.889153108,567.8002377972,0,ac mi eleifend egestas.,osobny_odber,zaplatena,Pripravuje sa
+,,,,,,403.7972427905,363.4175185114,1,odio. Nam interdum enim,osobny_odber,zaplatena,Pripravuje sa
+,,,,,,766.9858275913,690.2872448321,0,Mauris quis turpis vitae purus,kurier,nezaplatena,Odoslana
+,,,,,,815.6177909113,734.0560118202,1,sodales elit erat,osobny_odber,nezaplatena,Odoslana
+,,,,,,627.1875603125,564.4688042812,1,odio tristique pharetra. Quisque ac,dobierka,zaplatena,Vybavena
+,,,,,,386.5434755571,347.8891280014,0,Proin vel nisl. Quisque fringilla euismod,dobierka,nezaplatena,Zrusena
+,,,,,,347.9355550371,313.1419995334,0,"at auctor ullamcorper, nisl",osobny_odber,zaplatena,Odoslana
+,,,,,,293.2349601761,263.9114641584,1,Curabitur vel lectus. Cum sociis natoque,dobierka,zaplatena,Prijata
+,,,,,,99.6272587217,89.6645328496,0,"blandit viverra. Donec tempus, lorem fringilla",osobny_odber,zaplatena,Vybavena
+,,,,,,239.4152623601,215.4737361241,1,"a, enim. Suspendisse",kurier,nezaplatena,Vybavena
+,,,,,,397.3490856588,357.6141770929,0,"dapibus id, blandit",dobierka,nezaplatena,Prijata
+,,,,,,140.3350611217,126.3015550096,1,"cursus et, eros. Proin ultrices.",osobny_odber,nezaplatena,Zrusena
+,,,,,,594.7954291478,535.315886233,0,eu nulla at sem molestie sodales.,kurier,nezaplatena,Pripravuje sa
+,,,,,,159.8137239926,143.8323515933,0,et netus et malesuada fames,kurier,nezaplatena,Pripravuje sa
+,,,,,,254.1637700051,228.7473930046,1,Curabitur egestas nunc,kurier,zaplatena,Prijata
+,,,,,,356.9941399619,321.2947259657,0,lobortis tellus justo sit amet nulla.,dobierka,nezaplatena,Prijata
+,,,,,,764.4716408104,688.0244767293,1,Etiam gravida molestie arcu. Sed,kurier,zaplatena,Odoslana
+,,,,,,25.6968233734,23.1271410361,0,aptent taciti sociosqu,dobierka,zaplatena,Vybavena
+,,,,,,45.2840994112,40.7556894701,1,condimentum. Donec at arcu. Vestibulum ante,osobny_odber,nezaplatena,Vybavena
+,,,,,,103.0299537815,92.7269584034,0,Nullam feugiat placerat velit. Quisque,osobny_odber,zaplatena,Prijata
+,,,,,,879.2310426943,791.3079384249,1,risus. Donec egestas. Aliquam nec,kurier,zaplatena,Prijata
+,,,,,,559.0170868672,503.1153781805,0,"gravida non, sollicitudin a, malesuada",dobierka,nezaplatena,Odoslana
+,,,,,,453.6853437312,408.3168093581,1,Suspendisse non leo. Vivamus nibh,dobierka,nezaplatena,Zrusena
+,,,,,,669.9673831463,602.9706448317,0,"aliquam iaculis, lacus pede sagittis",osobny_odber,nezaplatena,Zrusena
+,,,,,,186.3056225702,167.6750603132,1,"cursus, diam at",osobny_odber,nezaplatena,Vybavena
+,,,,,,776.0459054261,698.4413148835,0,Donec fringilla. Donec feugiat,dobierka,nezaplatena,Odoslana
+,,,,,,45.8477880806,41.2630092725,1,"tortor, dictum eu,",osobny_odber,nezaplatena,Pripravuje sa
+,,,,,,88.6043664999,79.7439298499,0,lacus. Mauris non,dobierka,zaplatena,Odoslana
+,,,,,,22.5857838523,20.327205467,1,Duis a mi fringilla mi,dobierka,zaplatena,Pripravuje sa
+,,,,,,80.5251347832,72.4726213049,1,eros turpis non enim.,osobny_odber,zaplatena,Odoslana
+,,,,,,44.5952126756,40.1356914081,0,dolor. Donec fringilla. Donec,kurier,nezaplatena,Odoslana
+,,,,,,85.6746992096,77.1072292887,0,neque non quam.,dobierka,zaplatena,Pripravuje sa
+,,,,,,20.9048590623,18.8143731561,1,enim. Curabitur massa. Vestibulum,kurier,nezaplatena,Vybavena
+,,,,,,21.2937954348,19.1644158913,0,vitae aliquam eros,osobny_odber,zaplatena,Vybavena
+,,,,,,67.2364783008,60.5128304707,1,"Etiam ligula tortor, dictum eu, placerat",osobny_odber,zaplatena,Vybavena
